@@ -5,7 +5,7 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 
-public class C {
+public class Painting {
     public static double Distance(double r,double g,double b,double r1,double g1,double b1){
         double rmean;
         rmean = (r+r1)/2;
